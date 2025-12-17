@@ -8037,7 +8037,7 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
   color: :root {
-  --bs-primary-rgb: 255, 215, 0; /* gold */ !important;
+  --bs-primary-rgb: (255, 215, 0); /* gold */ !important;
 }
 
 .text-secondary {
